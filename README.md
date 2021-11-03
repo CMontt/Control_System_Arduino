@@ -1,2 +1,2 @@
 # Control_System_Arduino
-Controle de um sistema de controle (pêndulo-hélice) utilizando Arduino (Microcontrolador).
+Pequeno código em C utilizado para programação de um Arduino(Microcontrolador) para o controle de um Protótipo(Pêndulo-Hélice).
